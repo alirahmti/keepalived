@@ -43,8 +43,6 @@ This repository includes:
 
 ---
 
----
-
 ### Explanation of the README:
 1. **Overview of Keepalived**:
    - Provides a brief introduction to Keepalived, its purpose, and its common use cases (high availability, load balancing, and failover).
@@ -64,7 +62,6 @@ This repository includes:
 6. **Author Section**:
    - Includes your name and GitHub profile link to ensure credit remains visible.
 
-Let me know if you’d like to customize this further or add more details! 😊
 ---
 
 ## Author
